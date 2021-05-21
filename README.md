@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerjWeesp
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, machine learning.
+- 🌱 I’m currently learning Python, R, machine learning, using Jypiter NB, Spyder and R Studio
 - 📫 How to reach me serj.amarin@gmail.com
 
 <!---
