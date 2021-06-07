@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SerjWeesp
 - 👀 I’m interested in data science, machine learning, statistics and data mining
-- 🌱 I’m currently studying Master degree in Data Science at the University of Warsaw, learning Python, R, machine learning, using Jypiter NB, Spyder and R Studio. 
+- 🌱 I’m learning  machine learning with Python and R, using Jypiter NB, Spyder and R Studio. 
 - Also I'm using SQL with MySQL and Oracle SQL developer
 - 📫 How to reach me serj.amarin@gmail.com
 
